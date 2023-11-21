@@ -1,3 +1,6 @@
+import * as basicLightbox from "basiclightbox";
+import "basiclightbox/dist/basicLightbox.min.css";
+
 import { galleryItems } from "./gallery-items.js";
 
 const galleryContainer = document.querySelector(".gallery");
