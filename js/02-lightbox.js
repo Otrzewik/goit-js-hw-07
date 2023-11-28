@@ -30,4 +30,3 @@ const lightbox = new SimpleLightbox(".gallery a", {
   captionsData: "alt",
   enableKeyboard: true,
 });
-console.log(galleryItems);
